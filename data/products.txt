@@ -1,0 +1,10 @@
+1;Producto1;13585
+2;Producto2;24355
+3;Producto3;2218
+4;Producto4;30611
+5;Producto5;31804
+6;Producto6;30266
+7;Producto7;19079
+8;Producto8;24512
+9;Producto9;39578
+10;Producto10;47963
