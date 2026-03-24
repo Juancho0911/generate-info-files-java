@@ -21,4 +21,5 @@ GenerateInfoFiles
 Juan Carlos Velasco,
 Catalina Severino Giraldo,
 Juan Daniel Morales Rua,
-Leidy Lorena Lavao Cantillo.
+Leidy Lorena Lavao Cantillo,
+Juan Sebastian Montoya Huerfano.
