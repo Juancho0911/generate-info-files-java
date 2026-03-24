@@ -1,5 +1,0 @@
-CC;1;Andres;Lopez
-CC;2;Luisa;Garcia
-CC;3;Ana;Lopez
-CC;4;Andres;Perez
-CC;5;Carlos;Rodriguez
