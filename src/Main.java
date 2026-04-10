@@ -2,8 +2,10 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
     public static void main(String[] args) {
+        System.out.println("Hola, funciona!");
+    }
+}
         try {
             // Cargar vendedores y productos
             Map<Long, String> vendedores = cargarVendedores("data/salesmen.txt");
