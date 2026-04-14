@@ -14,7 +14,7 @@ Genera automáticamente:
 
 ## Ejecución
 Ejecutar la clase:
-GenerateInfoFiles
+GenerateInfoFiles -
 MAIN
 
 ## Requisitos
