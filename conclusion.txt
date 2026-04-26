@@ -1,10 +1,10 @@
 Conclusión del proyecto
 
 1. Lo aprendido:
-Durante el desarrollo del proyecto aprendí a generar datos pseudoaleatorios en Java, a manipular archivos planos y a automatizar la creación de reportes. También reforcé conceptos de programación orientada a objetos y manejo de excepciones.
+En el desarrollo de este proyecto aprendimos a generar datos de prueba en Java de manera automática, a trabajar con archivos planos y a crear reportes sin necesidad de pedir información al usuario. También reforzamos conceptos básicos de programación orientada a objetos y cómo manejar errores en la ejecución.
 
 2. Aplicaciones profesionales:
-Estas destrezas son útiles en la gestión de información empresarial, en la creación de sistemas de análisis de datos y en la automatización de procesos administrativos. En mi vida profesional puedo aplicar este conocimiento para construir herramientas que procesen grandes volúmenes de datos y generen informes útiles para la toma de decisiones.
+Creemos que estas habilidades son útiles para la vida laboral porque permiten organizar información, automatizar procesos y generar reportes que apoyen la toma de decisiones en empresas. Lo que hicimos aquí se puede aplicar en sistemas de ventas, control de inventarios o análisis de datos.
 
 3. Dificultades:
-La principal dificultad fue organizar la estructura del repositorio y asegurar que los programas funcionaran sin interacción del usuario. También fue un reto manejar correctamente la lectura y escritura de archivos y garantizar que los reportes se generaran de manera coherente.
+Lo más complicado fue organizar bien la estructura del repositorio y lograr que los programas funcionaran de forma independiente. También nos costó un poco manejar la lectura y escritura de archivos para que los reportes quedaran coherentes. Al final, con pruebas y ajustes, logramos que todo funcionara correctamente.
