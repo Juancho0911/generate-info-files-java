@@ -1,10 +1,10 @@
 Conclusión del proyecto
 
-1. Lo aprendido:
-En el desarrollo de este proyecto aprendimos a generar datos de prueba en Java de manera automática, a trabajar con archivos planos y a crear reportes sin necesidad de pedir información al usuario. También reforzamos conceptos básicos de programación orientada a objetos y cómo manejar errores en la ejecución.
+Lo aprendido:
+Durante el desarrollo de este proyecto aprendimos a crear archivos de prueba en Java de forma automática, trabajar con archivos planos y procesar información para generar reportes sin necesidad de solicitar datos al usuario. También reforzamos el uso de estructuras de datos, la organización del código y el manejo de errores durante la ejecución del programa.
 
-2. Aplicaciones profesionales:
-Creemos que estas habilidades son útiles para la vida laboral porque permiten organizar información, automatizar procesos y generar reportes que apoyen la toma de decisiones en empresas. Lo que hicimos aquí se puede aplicar en sistemas de ventas, control de inventarios o análisis de datos.
+Aplicaciones profesionales:
+Consideramos que las habilidades trabajadas en este proyecto son útiles en el ámbito profesional, ya que permiten automatizar tareas, organizar grandes cantidades de información y generar reportes que facilitan el análisis de datos y la toma de decisiones. Este tipo de solución puede aplicarse en sistemas de ventas, inventarios, seguimiento comercial y administración de información empresarial.
 
-3. Dificultades:
-Lo más complicado fue organizar bien la estructura del repositorio y lograr que los programas funcionaran de forma independiente. También nos costó un poco manejar la lectura y escritura de archivos para que los reportes quedaran coherentes. Al final, con pruebas y ajustes, logramos que todo funcionara correctamente.
+Dificultades:
+Una de las principales dificultades fue lograr que la generación de archivos y el procesamiento de la información fueran coherentes entre sí. También fue retador organizar adecuadamente el proyecto, manejar la lectura y escritura de archivos, y asegurar que los reportes reflejaran correctamente los datos generados. Sin embargo, mediante pruebas, correcciones y ajustes en el código, fue posible obtener un resultado funcional y acorde con los objetivos planteados.
